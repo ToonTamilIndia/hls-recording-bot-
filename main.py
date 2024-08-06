@@ -31,7 +31,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-bot_token = '6796616881:AAHHSCqq0PxDo3H00NPE40V2ddGV_umllgc'
+bot_token = '7263108248:AAGx-g0wBMSiXAz9I646PS1gRoNWweiJjW4'
 bot = Bot(token=bot_token)
 recording_durations = {}  # Store recording durations for each chat
 scheduled_jobs = {}  # Store scheduled jobs for each chat
