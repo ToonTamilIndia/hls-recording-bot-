@@ -20,4 +20,4 @@ COPY . .
 CMD ["python", "main.py"]
 
 # Expose port 8000 (if applicable, otherwise remove this line)
-EXPOSE 8000
+EXPOSE 101
